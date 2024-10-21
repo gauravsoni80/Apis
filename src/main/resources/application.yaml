@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: User
+
+  profiles:
+    active:
+      - ${ENV:dev}
