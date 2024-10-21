@@ -5,4 +5,4 @@ spring:
     password: PhulOnNLXzmUKVKwNCxucPLTZjcpfAWx
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create-drop
