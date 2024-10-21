@@ -4,4 +4,4 @@ spring:
 
   profiles:
     active:
-      - ${ENV:dev}
+      - ${ENV:prod}

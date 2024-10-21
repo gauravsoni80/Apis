@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://root:PhulOnNLXzmUKVKwNCxucPLTZjcpfAWx@autorack.proxy.rlwy.net:54713/railway
+    url: jdbc:mysql://root:SnAHsqkGwLpzQMgUNKbdKLJsetAPWnFQ@junction.proxy.rlwy.net:37963/railway
     username: root
-    password: PhulOnNLXzmUKVKwNCxucPLTZjcpfAWx
+    password: SnAHsqkGwLpzQMgUNKbdKLJsetAPWnFQ
   jpa:
     hibernate:
       ddl-auto: create-drop
